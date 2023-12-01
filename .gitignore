@@ -1,0 +1,3 @@
+*.pem
+config
+known_hosts

@@ -1,0 +1,5 @@
+*
+!config
+!targethost.pem
+!known_hosts
+!nginx.conf
